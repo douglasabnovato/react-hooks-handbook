@@ -35,7 +35,7 @@ function UseReducer() {
         dispatch({ type: 'minus'});
     }
   return (
-    <div>
+    <div className="UseReducer">
       <h1>{state.counter}</h1>
       <h4>Cliques: {state.clicks}</h4>
       <button onClick={handleMinus}>-</button>

@@ -21,7 +21,7 @@ function UseEffect() {
   }, [name]);
 
   return (
-    <div className="Counter">
+    <div className="UseEffect">
       <div className="container-inputText">
         <span>{name}</span>
         <br />

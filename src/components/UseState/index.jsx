@@ -21,7 +21,7 @@ function UseState() {
   }
 
   return (
-    <div className="Counter">
+    <div className="UseState">
       <div className="container">
         <button onClick={handleMinus}>-</button>
         <h4>{counter}</h4>

@@ -11,7 +11,7 @@ function UseCallback() {
     }, [])
 
     return (
-        <div>
+        <div className="UseCallback">
             <h1>{counter}</h1>
             <Button onClick={handlePlus} />
         </div>

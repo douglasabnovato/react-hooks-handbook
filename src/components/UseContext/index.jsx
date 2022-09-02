@@ -15,7 +15,7 @@ function Button(){
     const theme = useContext(ThemeContext)
 
     return (
-        <button className="useContext">{theme.mode}</button>
+        <button className="UseContext">{theme.mode}</button>
     )
 }
 

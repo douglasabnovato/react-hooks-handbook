@@ -1,7 +1,7 @@
-.useContext{
+.UseContext{
     cursor: pointer;
 }
 
-.useContext:hover{
+.UseContext:hover{
     opacity: .5;
 }

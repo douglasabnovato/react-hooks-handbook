@@ -17,7 +17,11 @@
 - [x] useContext #02: consumir contextos 
 - [x] useReducer #03: manipular múltiplos state ao mesmo tempo 
 - [x] useCallback #04: memorizando funções 
-- [ ] useMemo #05: memorizando dados 
+- [x] useMemo #05: memorizando dados 
+
+### Warnings
+
+- [Por que o useEffect é executado duas vezes](https://josiaspereira.com.br/por-que-o-useeffect-e-executado-duas-vezes/)
 
 ### Referências
 
