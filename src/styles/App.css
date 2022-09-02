@@ -9,9 +9,26 @@
     text-align: center;
 }
 
+.App .TitleTop {
+    padding: 10px 10px 10px 10px;
+    top: 0;
+    width: 100%;
+    background: grey;
+} 
+
 .App .Cards {
+    top: 40px;
     height: 90vh;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+} 
+
+.App h5 {
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background: grey;
 } 

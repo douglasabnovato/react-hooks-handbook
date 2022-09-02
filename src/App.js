@@ -15,7 +15,7 @@ import UseImperativeHandle from "./components/UseImperativeHandle";
 export default function App(props) {
   return (
     <div className="App">
-      <h1>Hooks React</h1>
+      <h1 className="TitleTop">Hooks React</h1>
       <div className="Cards">
         <Card titulo="#00 - Hooks useState" color="#E7E014">
           <UseState />
@@ -52,6 +52,30 @@ export default function App(props) {
           color="#897ED0"
         >
           <UseImperativeHandle />
+        </Card>
+        <Card
+          titulo="#08 - hooks react"
+          color="#6D6D72"
+        >
+          <h3>#08 - hooks react</h3>
+        </Card>
+        <Card
+          titulo="#09 - hooks react"
+          color="#6D6D72"
+        >
+          <h3>#09 - hooks react</h3>
+        </Card>
+        <Card
+          titulo="#10 - hooks react"
+          color="#6D6D72"
+        >
+          <h3>#10 - hooks react</h3>
+        </Card>
+        <Card
+          titulo="#11 - hooks react"
+          color="#6D6D72"
+        >
+          <h3>#11 - hooks react</h3>
         </Card>
       </div>
       <h5>@douglasabnovato</h5>
