@@ -1,0 +1,7 @@
+.useContext{
+    cursor: pointer;
+}
+
+.useContext:hover{
+    opacity: .5;
+}
