@@ -44,7 +44,7 @@ export default function App(props) {
         <Card titulo="#05 - Memorizando dados com useMemo" color="#921E28">
           <UseMemo />
         </Card>
-        <Card titulo="#06 - Entendendo referências no React" color="#FFC300">
+        <Card titulo="#06 - Entendendo referências no React" color="#6D6D72">
           <UseRef />
         </Card>
         <Card
@@ -55,25 +55,25 @@ export default function App(props) {
         </Card>
         <Card
           titulo="#08 - hooks react"
-          color="#6D6D72"
+          color="#FFC300"
         >
           <h3>#08 - hooks react</h3>
         </Card>
         <Card
           titulo="#09 - hooks react"
-          color="#6D6D72"
+          color="#558635"
         >
           <h3>#09 - hooks react</h3>
         </Card>
         <Card
           titulo="#10 - hooks react"
-          color="#6D6D72"
+          color="#F0460A"
         >
           <h3>#10 - hooks react</h3>
         </Card>
         <Card
           titulo="#11 - hooks react"
-          color="#6D6D72"
+          color="#080E98"
         >
           <h3>#11 - hooks react</h3>
         </Card>
