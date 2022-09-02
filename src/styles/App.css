@@ -1,8 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .App {
+    height: 100vh;
     text-align: center;
 }
+
 .App .Cards {
+    height: 90vh;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-}
+} 
