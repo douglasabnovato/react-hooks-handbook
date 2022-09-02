@@ -18,6 +18,7 @@
 - [x] useReducer #03: manipular múltiplos state ao mesmo tempo 
 - [x] useCallback #04: memorizando funções 
 - [x] useMemo #05: memorizando dados 
+- [ ] useRef #06: entender referências 
 
 ### Warnings
 
