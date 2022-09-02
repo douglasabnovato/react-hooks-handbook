@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./index.css";
 
-function Counter() {
+function UseState() {
   const [counter, setCounter] = useState(0);
   
   useEffect(() => {
@@ -31,4 +31,4 @@ function Counter() {
   );
 }
 
-export default Counter;
+export default UseState;

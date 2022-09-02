@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./index.css";
 
-function InputText() {
+function UseEffect() {
   const [name, setName] = useState("Olá");
 
   useEffect(() => {
@@ -31,4 +31,4 @@ function InputText() {
   );
 }
 
-export default InputText;
+export default UseEffect;

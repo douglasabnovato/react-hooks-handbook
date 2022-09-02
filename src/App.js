@@ -3,25 +3,27 @@ import React from "react";
 import "./styles/App.css";
 
 import Card from "./components/Card";
-import Counter from "./components/Counter";
-import InputText from "./components/InputText";
+import UseState from "./components/UseState";
+import UseEffect from "./components/UseEffect";
+import UseContext from "./components/UseContext";
 
 export default function App(props) {
 
   return (
     <div className="App">
-      <h1>Hooks React com Mateus Silva</h1>
+      <h1>Hooks React</h1>
       <div className="Cards">
         <Card titulo="#00 - Hooks useState" color="#B9006E">
-          <Counter />
+          <UseState />
         </Card>
         <Card titulo="#01 - Components Lifecycle useEffect" color="#AF601A">
-          <InputText />
+          <UseEffect />
         </Card>
         <Card titulo="#02 - Consumindo Contextos com useContext" color="#168A2B">
-          <h2>Parei aqui</h2>
+          <UseContext />
         </Card>
       </div>
+      <h5>@douglasabnovato</h5>
     </div>
   );
 }
