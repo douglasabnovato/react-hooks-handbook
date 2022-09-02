@@ -14,7 +14,7 @@
 - Criado um layout para expor na prática o conteúdo teórico de Hooks.
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#hooks-react" src="./.github/tela-1.jpg" width="400px">
+  <img alt="versão 1 do projeto" title="#hooks-react" src="./.github/tela-1.jpg" height="400px">
 </p> 
 
 ### Referências
