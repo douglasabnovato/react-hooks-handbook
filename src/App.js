@@ -7,6 +7,7 @@ import UseState from "./components/UseState";
 import UseEffect from "./components/UseEffect";
 import UseContext from "./components/UseContext";
 import UseReducer from "./components/UseReducer";
+import UseCallback from "./components/UseCallback";
 
 export default function App(props) {
 
@@ -23,8 +24,11 @@ export default function App(props) {
         <Card titulo="#02 - Consumindo Contextos com useContext" color="#168A2B">
           <UseContext />
         </Card>
-        <Card titulo="#03 - Manipulando múltiplos state ao mesmo tempo com useReducer" color="#0D3BE6 ">
+        <Card titulo="#03 - Manipulando múltiplos state ao mesmo tempo com useReducer" color="#0D3BE6">
           <UseReducer />
+        </Card>
+        <Card titulo="#04 - Memorizando funções com useCallback" color="#E7E014">
+          <UseCallback />
         </Card>
       </div>
       <h5>@douglasabnovato</h5>
