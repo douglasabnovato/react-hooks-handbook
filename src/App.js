@@ -8,6 +8,7 @@ import UseEffect from "./components/UseEffect";
 import UseContext from "./components/UseContext";
 import UseReducer from "./components/UseReducer";
 import UseCallback from "./components/UseCallback";
+import UseMemo from "./components/UseMemo";
 
 export default function App(props) {
 
@@ -29,6 +30,9 @@ export default function App(props) {
         </Card>
         <Card titulo="#04 - Memorizando funções com useCallback" color="#E7E014">
           <UseCallback />
+        </Card>
+        <Card titulo="#05 - Memorizando dados com useMemo" color="#921E28">
+          <UseMemo />
         </Card>
       </div>
       <h5>@douglasabnovato</h5>
