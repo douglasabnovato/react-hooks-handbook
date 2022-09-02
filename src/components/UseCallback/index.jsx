@@ -1,7 +1,7 @@
 import React, { useState, useCallback } from 'react'
 import './index.css'
 
-const fnCounter = new Set()
+//const fnCounter = new Set()
 
 function UseCallback() {
     const [counter, setCounter] = useState(0)
