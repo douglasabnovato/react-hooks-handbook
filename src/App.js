@@ -10,6 +10,7 @@ import UseReducer from "./components/UseReducer";
 import UseCallback from "./components/UseCallback";
 import UseMemo from "./components/UseMemo";
 import UseRef from "./components/UseRef";
+import UseImperativeHandle from "./components/UseImperativeHandle";
 
 export default function App(props) {
   return (
@@ -45,6 +46,12 @@ export default function App(props) {
         </Card>
         <Card titulo="#06 - Entendendo referências no React" color="#FFC300">
           <UseRef />
+        </Card>
+        <Card
+          titulo="#07 - Acessar Componentes Imperativamente com forwardRef e useImperativeHandle"
+          color="#897ED0"
+        >
+          <UseImperativeHandle />
         </Card>
       </div>
       <h5>@douglasabnovato</h5>
