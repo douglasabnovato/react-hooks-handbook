@@ -12,6 +12,7 @@ import UseMemo from "./components/UseMemo";
 import UseRef from "./components/UseRef";
 import UseImperativeHandle from "./components/UseImperativeHandle";
 import UseLayoutEffec from "./components/UseLayoutEffect";
+import UseCustom from "./components/UseCustom";
 
 export default function App(props) {
   return (
@@ -61,10 +62,10 @@ export default function App(props) {
           <UseLayoutEffec />
         </Card>
         <Card
-          titulo="#09 - hooks react"
+          titulo="#09 - Criando Custom Hooks"
           color="#558635"
         >
-          <h3>#09 - hooks react</h3>
+          <UseCustom />
         </Card>
         <Card
           titulo="#10 - hooks react"
