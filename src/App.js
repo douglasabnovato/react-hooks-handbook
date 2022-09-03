@@ -62,7 +62,7 @@ export default function App(props) {
           <UseLayoutEffec />
         </Card>
         <Card
-          titulo="#09 - Criando Custom Hooks"
+          titulo="#09 - Criando Custom Hooks, criei o useFetch"
           color="#558635"
         >
           <UseCustom />

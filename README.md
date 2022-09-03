@@ -20,6 +20,8 @@
 - [x] useMemo #05: memorizando dados 
 - [x] useRef #06: entender referências 
 - [x] forwardRef e useImperativeHandle #07: acessar componentes imperativamente 
+- [x] useLayoutEffect #08: diferenças entre useEffect e useLayoutEffect 
+- [ ] useCustom #09: criar custom hook, criei o useFetch  
 
 ### Warnings
 
