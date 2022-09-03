@@ -11,6 +11,7 @@ import UseCallback from "./components/UseCallback";
 import UseMemo from "./components/UseMemo";
 import UseRef from "./components/UseRef";
 import UseImperativeHandle from "./components/UseImperativeHandle";
+import UseLayoutEffec from "./components/UseLayoutEffect";
 
 export default function App(props) {
   return (
@@ -54,10 +55,10 @@ export default function App(props) {
           <UseImperativeHandle />
         </Card>
         <Card
-          titulo="#08 - hooks react"
+          titulo="#08 - Diferenças entre useEffect e useLayoutEffec"
           color="#FFC300"
         >
-          <h3>#08 - hooks react</h3>
+          <UseLayoutEffec />
         </Card>
         <Card
           titulo="#09 - hooks react"
