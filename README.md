@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#hooks-react" src="./.github/tela-2.jpg" height="400px">
+  <img alt="versão 1 do projeto" title="#hooks-react" src="./.github/tela-3.jpg" height="400px">
 </p> 
 
 ## Sobre o projeto
