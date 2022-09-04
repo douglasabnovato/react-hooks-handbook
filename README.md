@@ -27,8 +27,8 @@
 ### Warnings
 
 - [Por que o useEffect é executado duas vezes](https://josiaspereira.com.br/por-que-o-useeffect-e-executado-duas-vezes/)
-- posicionamento do header
-- posicionamento do footer
+- [posicionamento do header](https://www.w3schools.com/howto/howto_css_fixed_menu.asp)
+- [posicionamento do footer](https://www.w3schools.com/howto/howto_css_fixed_footer.asp)
 
 ### Referências
 

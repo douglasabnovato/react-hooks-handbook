@@ -9,24 +9,35 @@
     text-align: center;
 }
 
-.App .TitleTop {
-    padding: 10px 0px;
+.App .Header {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
     top: 0;
     width: 100%;
-    background: grey;
-} 
+}
 
-.App .Cards {
-    top: 40px;
+.App .Header .TitleTop {
+    color: antiquewhite;
+}
+
+.App .Main {
+    padding: 16px;
+    margin-top: 30px;
+}
+
+.App .Main .Cards {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-} 
+}
 
-.App h5 {
-    position: fixed;
-    padding: 10px 0px;
+.App .Footer h5 {
+    left: 0;
     bottom: 0;
     width: 100%;
-    background: grey;
-} 
+    padding: 10px 0px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
