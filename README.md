@@ -22,7 +22,7 @@
 - [x] forwardRef e useImperativeHandle #07: acessar componentes imperativamente 
 - [x] useLayoutEffect #08: diferenças entre useEffect e useLayoutEffect 
 - [x] useCustom #09: criar custom hook, criei o useFetch  
-- [ ] useDebugValue #10: para que serve esse hook
+- [x] useDebugValue #10: para que serve esse hook
 
 ### Warnings
 
