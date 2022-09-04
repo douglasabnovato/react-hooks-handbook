@@ -21,11 +21,14 @@
 - [x] useRef #06: entender referências 
 - [x] forwardRef e useImperativeHandle #07: acessar componentes imperativamente 
 - [x] useLayoutEffect #08: diferenças entre useEffect e useLayoutEffect 
-- [ ] useCustom #09: criar custom hook, criei o useFetch  
+- [x] useCustom #09: criar custom hook, criei o useFetch  
+- [ ] useDebugValue #10: para que serve esse hook
 
 ### Warnings
 
 - [Por que o useEffect é executado duas vezes](https://josiaspereira.com.br/por-que-o-useeffect-e-executado-duas-vezes/)
+- posicionamento do header
+- posicionamento do footer
 
 ### Referências
 

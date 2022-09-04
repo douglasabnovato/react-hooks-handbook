@@ -13,6 +13,7 @@ import UseRef from "./components/UseRef";
 import UseImperativeHandle from "./components/UseImperativeHandle";
 import UseLayoutEffec from "./components/UseLayoutEffect";
 import UseCustom from "./components/UseCustom";
+import UseDebugValue from "./components/UseDebugValue";
 
 export default function App(props) {
   return (
@@ -68,16 +69,10 @@ export default function App(props) {
           <UseCustom />
         </Card>
         <Card
-          titulo="#10 - hooks react"
+          titulo="#10 - Pra que serve o useDebugValue?"
           color="#F0460A"
         >
-          <h3>#10 - hooks react</h3>
-        </Card>
-        <Card
-          titulo="#11 - hooks react"
-          color="#080E98"
-        >
-          <h3>#11 - hooks react</h3>
+          <UseDebugValue />
         </Card>
       </div>
       <h5>@douglasabnovato</h5>

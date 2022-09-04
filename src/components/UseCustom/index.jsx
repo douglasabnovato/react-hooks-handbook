@@ -1,4 +1,4 @@
-import React, { useEffect, useState} from "react";
+import React, { useDebugValue, useEffect, useState} from "react";
 import "./index.css";
 
 function UseCustom() {
@@ -29,7 +29,11 @@ function useFetch(url){
     })()
   }, [url])
 
-  return [loading, response]
+  useDebugValue("label",(message) => {
+    return `Mensagem: ${message}`
+  })
+
+  return [loading, response?.json]
 }
 
 export default UseCustom;
