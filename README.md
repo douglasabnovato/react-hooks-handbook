@@ -35,4 +35,6 @@
 Conteúdo do Mateus Silva
 - [Instagram](https://www.instagram.com/imateus.silva/)
 - [e-book React Hooks](https://devacademy.com.br/ebooks/react-hooks/)
+![e-book React Hooks](./.github/react-hooks-ebook.jpg)
 - [playlist React Hooks](https://www.youtube.com/playlist?list=PLPXWI3llyMiLayGs4_noY8Q1-rbmbFoYM)
+![playlist React Hooks](./.github/react-hooks-playlist.jpg)
