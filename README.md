@@ -1,5 +1,5 @@
 <h4 align="center"> 
-	🚧 Hooks React 🚀
+	🚧 React Hooks Handbook 🚀
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
